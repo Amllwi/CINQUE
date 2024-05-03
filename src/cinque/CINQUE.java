@@ -32,6 +32,8 @@ public class CINQUE {
                 siglo = (anyo - 1) / 100 + 1;
                 System.out.println(siglo);
             }
+     
         }
     }
+    //HOLA COMO ESTÁS
 }
